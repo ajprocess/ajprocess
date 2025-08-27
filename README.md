@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Andres Jimenez</h1>
-<h3 align="center">I’m a Full Stack Developer from Miami, FL with a background in IT support and digital marketing. I enjoy building web applications that combine clean code, intuitive design, and real-world impact.</h3>
+<h3 align="center">I’m a Full Stack Developer from Miami, FL with a background in IT support, digital marketing, and real estate. I enjoy building web applications that combine clean code, intuitive design, and real-world impact.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
